@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on University Labs
 - 🌱 I’m currently learning Java, Spring
-- 💬 Ask me about anything
-- 📫 How to reach me: <a href="http://vk.com/vladhacksmile">VK</a> or <a href="http://t.me/embarcadero_studio">Telegram</a>
+- 💬 Ask me about anything in <a href="http://vk.com/vladhacksmile">VK</a> or <a href="http://t.me/vladhacksmile">Telegram</a>
 - ⚡ Fun fact: I'm developer of MegaCheat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladhacksmile&layout=compact&langs_count=6)
