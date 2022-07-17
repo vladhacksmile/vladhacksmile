@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub account 👋
 
-- 🔭 I’m currently working on University Labs
+- 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Java, Spring
 - 💬 Ask me about anything in <a href="http://vk.com/vladhacksmile">VK</a> or <a href="http://t.me/vladhacksmile">Telegram</a>
 - ⚡ Fun fact: I'm developer of MegaCheat
